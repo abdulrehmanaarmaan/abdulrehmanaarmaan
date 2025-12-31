@@ -3,8 +3,7 @@
 
 ## Name & Designation
 ### Abdul Rehman Aarmaan
-#### Full Stack Developer
-
+#### Full Stack Developer </br> </br>
 
 ## About Me
 I am a passionate Full Stack Developer with experience in building responsive web applications.
