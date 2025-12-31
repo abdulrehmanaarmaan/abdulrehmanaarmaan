@@ -1,4 +1,4 @@
-<img width="840" height="1200" alt="Modern Classroom Setup" src="https://github.com/user-attachments/assets/6b91d51f-8274-4207-89d2-4d1a56e872e0" width='1200' height='180'/>
+<img alt="Banner" src="https://github.com/user-attachments/assets/6b91d51f-8274-4207-89d2-4d1a56e872e0" width='1200' height='100'/>
 
 
 ## Name & Designation
