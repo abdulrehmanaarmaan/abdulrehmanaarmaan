@@ -1,6 +1,5 @@
 <img alt="Banner" src="https://github.com/user-attachments/assets/6b91d51f-8274-4207-89d2-4d1a56e872e0" width='1200' height='500'/>
 
-
 ## Name & Designation
 ### Abdul Rehman Aarmaan
 #### Full Stack Developer
@@ -15,7 +14,6 @@
 - I am improving my Javascript and React skills.
 
 ## Skills
-
 ### Frontend
 <div className='flex'>
 <img alt='React' src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white' />
