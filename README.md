@@ -38,8 +38,8 @@ https://www.linkedin.com/in/abdul-rehman-aarmaan/
 https://github.com/abdulrehmanaarmaan
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abdulrehmanaarmaan&show_icons=true&theme=light)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulrehmanaarmaan&layout=compact&theme=light)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanaarmaan&theme=light)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdulrehmanaarmaan&show_icons=true&theme=radical" alt="Number of Contributions" width="350"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulrehmanaarmaan&layout=compact&theme=radical" alt="Languages Used" width="350"/>
+  <img src="https://github-readme-stats.herokuapp.com/?user=abdulrehmanaarmaan&theme=radical" alt="Contribution Streak" width="350"/>
+</p>
