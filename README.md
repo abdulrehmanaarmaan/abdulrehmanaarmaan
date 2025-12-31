@@ -37,7 +37,7 @@ https://www.linkedin.com/in/abdul-rehman-aarmaan/
 https://github.com/abdulrehmanaarmaan
 
 ## GitHub Stats
-![Abdul Rehman Aarmaan GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehmanaarmaan&show_icons=true&theme=radical)
+![Abdul Rehman Aarmaan GitHub Stats](https://github-readme-stats.vercel.app/api?abdulrehmanaarmaan&show_icons=true&theme=light)
 
 
 
