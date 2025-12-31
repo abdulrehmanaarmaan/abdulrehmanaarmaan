@@ -34,6 +34,7 @@ Currently focused on improving my front-end and full stack skills.
 
 ## Social Links
 https://www.linkedin.com/in/abdul-rehman-aarmaan/
+
 https://github.com/abdulrehmanaarmaan
 
 ## GitHub Stats
