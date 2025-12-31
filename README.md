@@ -2,7 +2,7 @@
 
 
 ## Name & Designation
-Abdul Rehman Aarmaan
+### Abdul Rehman Aarmaan
 Full Stack Developer
 
 ## About Me
