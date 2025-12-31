@@ -32,13 +32,12 @@ Currently focused on improving my front-end and full stack skills.
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF4154?style=for-the-badge&logo=react&logoColor=white)
 
-
-
 ## Social Links
 https://www.linkedin.com/in/abdul-rehman-aarmaan/
 https://github.com/abdulrehmanaarmaan
 
 ## GitHub Stats
+![Abdul Rehman Aarmaan GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehmanaarmaan&show_icons=true&theme=radical)
 
 
 
