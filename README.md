@@ -42,5 +42,5 @@ https://github.com/abdulrehmanaarmaan
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulrehmanaarmaan&layout=compact&theme=light" alt="Languages Used" width="380"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanaarmaan&theme=light" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanaarmaan&theme=light" alt="Streak Data" width="380"/>
 
