@@ -33,7 +33,7 @@ Currently focused on improving my front-end and full stack skills.
 ![Recharts](https://img.shields.io/badge/Recharts-FF4154?style=for-the-badge&logo=react&logoColor=white)
 
 ## Social Links
-https://www.linkedin.com/in/abdul-rehman-aarmaan/
+https://www.linkedin.com/in/abdul-rehman-aarmaan
 
 https://github.com/abdulrehmanaarmaan
 
