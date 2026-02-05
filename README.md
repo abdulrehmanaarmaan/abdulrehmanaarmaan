@@ -24,6 +24,11 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ## Social Links
 https://www.linkedin.com/in/abdul-rehman-aarmaan
 
