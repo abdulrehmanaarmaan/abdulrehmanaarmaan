@@ -30,9 +30,11 @@
 </p>
 
 ## Social Links
-https://www.linkedin.com/in/abdul-rehman-aarmaan
+abdulrehmanaarmaan@gmail.com
 
 https://github.com/abdulrehmanaarmaan
+
+https://www.linkedin.com/in/abdul-rehman-aarmaan
 
 ## GitHub Stats
 <img src="https://github-readme-stats-fast.vercel.app/api?username=abdulrehmanaarmaan&show_icons=true&theme=light" alt="Number of Contributions" width="380"/>
