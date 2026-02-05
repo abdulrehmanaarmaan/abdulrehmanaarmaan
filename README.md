@@ -31,7 +31,7 @@
 <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white' />
 <img alt='Firebase' src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black' />
 <img alt='Axios' src='https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white' />
-<img alt='Recharts' src='https://img.shields.io/badge/Recharts-FF4154?style=for-the-badge&logo=react&logoColor=white' />
+<img alt='Recharts' src='https://img.shields.io/badge/Recharts-FF4154?style=for-the-badge&logo=recharts&logoColor=white' />
 </div>
 
 ## Social Links
