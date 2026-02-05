@@ -21,7 +21,7 @@
 <img alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
 <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
 <img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-<img alt='TanStack Query' src='https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white' />
+<img alt='TanStack Query' src='https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack-query&logoColor=white' />
 </div>
 
 ### Backend
