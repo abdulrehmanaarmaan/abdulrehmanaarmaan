@@ -6,7 +6,7 @@
 
 ## About Me
 - I am a passionate Full Stack Developer with experience in building responsive web applications.
-- I enjoy working with modern Javascript frameworks and clean UI design.
+- I enjoy working with modern JavaScript frameworks and clean UI design.
 - Currently focused on improving my front-end and full stack skills.
 
 ## Current Activities
