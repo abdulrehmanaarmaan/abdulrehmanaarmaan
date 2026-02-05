@@ -11,7 +11,7 @@
 
 ## Current Activities
 - I am exploring Next.js.
-- I am improving my Javascript and React skills.
+- I am improving my JavaScript and React skills.
 
 ## Skills
 ### Frontend
