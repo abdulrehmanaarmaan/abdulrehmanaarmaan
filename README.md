@@ -11,7 +11,7 @@
 
 ## Experience
 
-### Next.js Developer Intern — Fluxypy
+### Full Stack Developer Intern — Fluxypy
 - Completed a three-month internship focused on real-world web application development.
 - Developed and maintained web application features using Next.js, React, and TypeScript.
 - Built reusable and responsive UI components following modern React and Next.js practices.
