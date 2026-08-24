@@ -1,4 +1,4 @@
-<img alt="Banner" src="https://res.cloudinary.com/dincextlz/image/upload/v1787566786/ChatGPT_Image_Aug_24_2026_07_19_28_AM_obmmm8.png"/>
+<img alt="Banner" src="https://res.cloudinary.com/dincextlz/image/upload/v1787567394/ChatGPT_Image_Aug_24_2026_07_27_29_AM_ztobcw.png"/>
 
 ## Name & Designation
 ### Abdul Rehman Aarmaan
