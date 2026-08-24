@@ -1,4 +1,4 @@
-<img alt="Banner" src="https://res.cloudinary.com/dincextlz/image/upload/v1770368586/web-development-with-MERN-stack_s9clbq.jpg" width="1200" height="400"/>
+<img alt="Banner" src="https://chatgpt.com/s/m_6a8c1a1059308191acbd6e15a7228999" width="1200" height="400"/>
 
 ## Name & Designation
 ### Abdul Rehman Aarmaan
