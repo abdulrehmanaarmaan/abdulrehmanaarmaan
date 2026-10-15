@@ -91,6 +91,7 @@ A care services web application for booking support for children, older adults, 
 **Technologies:** Next.js, TypeScript, MongoDB, NextAuth.js, TanStack Query, Cloudinary, Stripe.
 
 - [Live Demo](https://care-nest-three.vercel.app)
+- [GitHub Profile](https://github.com/abdulrehmanaarmaan/care-nest)
 
 ### 3. Servexa — Field Service Management Platform
 
@@ -103,6 +104,7 @@ A full-stack platform designed to connect customers, technicians, and administra
 **Technologies:** Next.js, TypeScript, Express.js, PostgreSQL, Prisma ORM, bKash.
 
 - [Live Demo](https://servexa-frontend.vercel.app)
+- [GitHub Profile](https://github.com/abdulrehmanaarmaan/servexa-frontend)
 
 ## Social Links
 
