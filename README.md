@@ -77,8 +77,7 @@ A MERN-based asset management application designed to support employee and HR wo
 - [Live Demo](https://assignment-11-client-f195a.web.app)
 - [Frontend Repository](https://github.com/abdulrehmanaarmaan/assetverse-client)
 - [Backend API Deployment](https://assignment-11-server-dun-phi.vercel.app)
-
-*Note: This repository link is for the frontend. Add a separate backend repository link here if one exists.*
+- [Backend Repository](https://github.com/abdulrehmanaarmaan/assetverse-server)
 
 ### 2. CareNest — Care Services Platform
 
@@ -106,8 +105,7 @@ A full-stack platform designed to connect customers, technicians, and administra
 - [Live Frontend](https://servexa-frontend.vercel.app)
 - [Frontend Repository](https://github.com/abdulrehmanaarmaan/servexa-frontend)
 - [Backend API Deployment](https://servexa-backend.vercel.app)
-
-*The links above identify the frontend source repository and deployed backend API separately. Add the backend source repository link when you have its actual URL.*
+- [Backend Repository](https://github.com/abdulrehmanaarmaan/servexa-backend)
 
 ## Social Links
 
