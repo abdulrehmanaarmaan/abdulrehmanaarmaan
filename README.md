@@ -51,7 +51,7 @@ I'm continuously improving my development skills through practical projects, pro
 ### Authentication, Payments & Integrations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,stripe-plain" alt="Firebase and Cloudinary" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
 </p>
 
 - Authentication: Firebase Authentication, NextAuth.js, and JWT-based authentication.
