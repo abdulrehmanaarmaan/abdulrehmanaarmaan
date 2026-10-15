@@ -78,7 +78,7 @@ A MERN-based asset management application designed to support employee and HR wo
 **Technologies:** React, Node.js, Express.js, MongoDB, Firebase, Stripe, TanStack Query, Recharts.
 
 - [Live Demo](https://assignment-11-client-f195a.web.app)
-- [GitHub Profile](https://github.com/abdulrehmanaarmaan)
+- [GitHub Profile](https://github.com/abdulrehmanaarmaan/assetverse-client)
 
 ### 2. CareNest — Care Services Platform
 
