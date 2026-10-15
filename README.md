@@ -50,13 +50,10 @@ I'm continuously improving my development skills through practical projects, pro
 
 ### Authentication, Payments & Integrations
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-</p>
-
-- Authentication: Firebase Authentication, NextAuth.js, and JWT-based authentication.
-- Payments: Stripe and bKash integrations in relevant projects.
-- Other integrations: Cloudinary image uploads and email integration where implemented.
+- **Authentication:** Firebase Authentication, NextAuth.js, and JWT-based authentication.
+- **Payments:** Stripe and bKash integrations in relevant projects.
+- **Media and file uploads:** Cloudinary.
+- **Email:** Nodemailer where implemented.
 
 ### Tools & Platforms
 
@@ -78,7 +75,10 @@ A MERN-based asset management application designed to support employee and HR wo
 **Technologies:** React, Node.js, Express.js, MongoDB, Firebase, Stripe, TanStack Query, Recharts.
 
 - [Live Demo](https://assignment-11-client-f195a.web.app)
-- [GitHub Profile](https://github.com/abdulrehmanaarmaan/assetverse-client)
+- [Frontend Repository](https://github.com/abdulrehmanaarmaan/assetverse-client)
+- [Backend API Deployment](https://assignment-11-server-dun-phi.vercel.app)
+
+*Note: This repository link is for the frontend. Add a separate backend repository link here if one exists.*
 
 ### 2. CareNest — Care Services Platform
 
@@ -91,7 +91,7 @@ A care services web application for booking support for children, older adults, 
 **Technologies:** Next.js, TypeScript, MongoDB, NextAuth.js, TanStack Query, Cloudinary, Stripe.
 
 - [Live Demo](https://care-nest-three.vercel.app)
-- [GitHub Profile](https://github.com/abdulrehmanaarmaan/care-nest)
+- [GitHub Repository](https://github.com/abdulrehmanaarmaan/care-nest)
 
 ### 3. Servexa — Field Service Management Platform
 
@@ -103,8 +103,11 @@ A full-stack platform designed to connect customers, technicians, and administra
 
 **Technologies:** Next.js, TypeScript, Express.js, PostgreSQL, Prisma ORM, bKash.
 
-- [Live Demo](https://servexa-frontend.vercel.app)
-- [GitHub Profile](https://github.com/abdulrehmanaarmaan/servexa-frontend)
+- [Live Frontend](https://servexa-frontend.vercel.app)
+- [Frontend Repository](https://github.com/abdulrehmanaarmaan/servexa-frontend)
+- [Backend API Deployment](https://servexa-backend.vercel.app)
+
+*The links above identify the frontend source repository and deployed backend API separately. Add the backend source repository link when you have its actual URL.*
 
 ## Social Links
 
